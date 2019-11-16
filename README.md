@@ -1,4 +1,6 @@
-Link:https://ucsb-cs56-f19.github.io/lab07-chen-olx/
+Link to javadoc:https://ucsb-cs56-f19.github.io/lab07-chen-olx/
+
+Link to heroku:https://cs56-f19-lab07-chen-olx.herokuapp.com/
 
 A simple Spring Boot webapp using:
 * Thymeleaf templating
