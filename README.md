@@ -2,6 +2,8 @@ Link to javadoc:https://ucsb-cs56-f19.github.io/lab07-chen-olx/
 
 Link to heroku:https://cs56-f19-lab07-chen-olx.herokuapp.com/
 
+Link to Travis-CI page:https://travis-ci.org/ucsb-cs56-f19/lab07-chen-olx
+
 A simple Spring Boot webapp using:
 * Thymeleaf templating
 * Pulling in Bootstrap from CDN.
