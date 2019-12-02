@@ -4,8 +4,10 @@ public class LocSearch {
 
     private String location;
 
+    public LocSearch(){};
+
     public String getLocation(){
-        return location;
+        return this.location;
     }
 
     public void setLocation(String location){
